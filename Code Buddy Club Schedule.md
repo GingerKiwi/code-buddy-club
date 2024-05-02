@@ -32,11 +32,13 @@
 | [Javascript Internationalization Object](https://egghead.io/courses/javascript-internationalization-object-b62d898e) |Egghead.io | [Matías Hernández](https://egghead.io/q/resources-by-matias-hernandez) | 11 min | 5 lessons | 01 Week | 12 to 12 | Mar 18 to Mar 24  
 | [Build a Modern User Interface with Chakra UI](https://egghead.io/courses/build-a-modern-user-interface-with-chakra-ui-fac68106) Please see note 3 below| Egghead.io | [Lazar Nikolov](https://egghead.io/q/resources-by-lazar-nikolov) See Notes! | 42 min | 9 lessons | 02 Weeks |  13 to 14 | Mar 25 to Apr 07 |
 | [Build a Keyword Extractor: React + OpenAI API + Chakra UI](https://youtu.be/jJNPPP2YEdM?si=FT7l6K41OIj76Ubr)| YouTube: Traversy Media | [Brad Traversy](https://www.linkedin.com/in/bradtraversy/) | 48 min| 1 video | 02 Weeks | 15 to 16 | Apr 08 to Apr 21 |
-| [Introduction to Applying Web Components](https://egghead.io/courses/web-components-f902) | Egghead.io | [Yonatan Kra](https://egghead.io/q/resources-by-yonatan-kra) | 17 min | 7 lessons | 1.5 Weeks |  17 to 18 | Apr 22 to May 05 |
-| JavaScript: [Optional Chaining](https://egghead.io/courses/optional-chaining-f563)| Egghead.io | [Shruti Kapoor](https://egghead.io/q/resources-by-shruti-kapoor) | 3 min | 4 lessons | 01 Weeks |  18 to 18 | Apr 29 to May 05 |
-| [Develop Accessible Web Apps with React](https://egghead.io/courses/develop-accessible-web-apps-with-react) | Egghead.io | [Erin Doyle](https://egghead.io/q/resources-by-erin-doyle) | 1h 32 min | 28 lessons | 04 Weeks |  19 to 23 | May 06 to June 09 |
-| [Command Line Power User](https://commandlinepoweruser.com/) Please see note 4 below| https://wesbos.com/courses | [Wes Bos](https://www.linkedin.com/in/wesbos/) | 1h | 11 lessons | 02 Weeks |  24 to 25 | Jun 10 to Jun 23 |
-| [Mastering Markdown](https://masteringmarkdown.com/) | https://wesbos.com/courses | [Wes Bos](https://www.linkedin.com/in/wesbos/) | 34 min | 11 lessons | 01 Week |  26 to 26 | Jun 24 to Jul 01 |
+| [Introduction to Applying Web Components](https://egghead.io/courses/web-components-f902) | Egghead.io | [Yonatan Kra](https://egghead.io/q/resources-by-yonatan-kra) | 17 min | 7 lessons | 1.5 Weeks |  17 to 17 | Apr 22 to April 228 |
+| [Accessible HTML forms][(https://www.linkedin.com/learning/html-forms-accessibility/be-an-html-forms-mvp) Please see note 4 below| LinkedIn Learning | [Ifeoma Nwosu](https://www.linkedin.com/in/ifeoma-nwosu/) | 44 min | 5 sections | 1.5 Weeks |  18 to 19 | May 05 to May 12th (May 05, 07, 12)|
+| [Learning TypeScript]([https://commandlinepoweruser.com/](https://www.linkedin.com/learning/learning-typescript-2/welcome-to-learning-typescript) Please see note 4 below | LinkedIn Learning | [Jess Chadwick](https://www.linkedin.com/in/jesschadwick/) | 1h 11min | 6 sections | 1.5 Weeks |  20 to 21 | May 13  to May 26 (May 14, 19, 21) |
+
+## In Person End of Season Brunch!
+
+We're having an end of Winter/Spring Code Buddy Club season brunch at the Firkin on Yonge just north of Queen Street. Stay tuned to Guild.host for details and to reserve your spot!
 
 ## Notes
 
@@ -45,7 +47,4 @@
 3. Lazar Nikolov is a Toronto JS member! 
 	1. His website and discord server is [Creatures.dev](https://creatures.dev)
 	2. His [Build a Full Stack Blog with Astro](https://egghead.io/courses/build-a-full-stack-blog-with-astro-7ffcf9ec) course on Egghead.io is well worth a month of paid Egghead pro ($25 USD). Both Sami and Liz have completed it. Marco is redoing his blog with Astro after Liz and Sami's experience.
-4. Additional resource for the to Command Line Power User weeks for Windows users
-	- Because that course focuses on MacOS
-	- [Customize your Windows Terminal](https://youtu.be/K-hby0Op1dM?si=8gqzYZwZRI1kVgA1)
-	- 14 min
+4. LinkedIn Learning courses are avaiable free though Toronto Public Library (sign in with your library card), most other Greater Toronto Hamilton Region (GTHA) public libraries and if you have a LinkedIn Premium subscription. (Access LinkedIn Learning via the Toronto Public Library)[https://www.torontopubliclibrary.ca/detail.jsp?R=EDB0187]
